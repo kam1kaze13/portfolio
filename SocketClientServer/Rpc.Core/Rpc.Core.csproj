@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Core" Version="5.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SocketClientServer.BinaryEnvelopeProtocol\SocketClientServer.BinaryEnvelopeProtocol.csproj" />
+    <ProjectReference Include="..\SocketClientServer.Core\SocketClientServer.Core.csproj" />
+  </ItemGroup>
+
+</Project>

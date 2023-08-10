@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Compress": {
+      "commandName": "Project",
+      "commandLineArgs": "-u photo.jpg.z photo.unpacked.jpg"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCgiWebServerExample", "FastCgiWebServerExample\FastCgiWebServerExample.csproj", "{3EE5664C-D732-44E3-A604-63AD406C7922}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastCgiNet", "..\FastCgiNet\FastCgiNet-master\FastCgiNet\FastCgiNet.csproj", "{A0F27C46-BC4E-4611-AF1F-A2B52A3746BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EE5664C-D732-44E3-A604-63AD406C7922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EE5664C-D732-44E3-A604-63AD406C7922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EE5664C-D732-44E3-A604-63AD406C7922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EE5664C-D732-44E3-A604-63AD406C7922}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0F27C46-BC4E-4611-AF1F-A2B52A3746BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0F27C46-BC4E-4611-AF1F-A2B52A3746BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0F27C46-BC4E-4611-AF1F-A2B52A3746BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0F27C46-BC4E-4611-AF1F-A2B52A3746BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9C194A-0555-4672-87CA-291A4B6F5FAB}
+	EndGlobalSection
+EndGlobal

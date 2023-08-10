@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Compress": {
+      "commandName": "Project",
+      "commandLineArgs": "-u TestFile2.fb2.MyZip TestFile2.OKEYletsGO.fb2"
+    }
+  }
+}
